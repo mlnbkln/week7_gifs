@@ -1,4 +1,4 @@
-# flutter_devfest3
+# flutter_week7_gifs
 
 A new Flutter project.
 
